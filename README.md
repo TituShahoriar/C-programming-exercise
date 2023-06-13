@@ -64,5 +64,5 @@ yu
         +----------------------+
         | - filename : String                 |
         +----------------------+
-        | + readUsers() : List<User>          |
+        | + readUsers() : List<User>          
         +----------------------+
