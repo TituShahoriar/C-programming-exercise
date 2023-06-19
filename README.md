@@ -33,7 +33,7 @@ yu
         | - choices : List<String>             |
         | - answerIndex : int                  |
         +-----------------+
-        | + getQuestion() : String             |
+        | + getQuestion() : String             
         | + getChoices() : List<String>        |
         | + getAnswerIndex() : int             |
         +-----------------+
